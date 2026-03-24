@@ -1,0 +1,15 @@
+flask
+flask-cors
+scikit-learn
+pandas
+numpy
+joblib
+nltk
+requests
+beautifulsoup4
+pymongo
+langdetect
+sumy
+PyPDF2
+PyJWT
+PyPDF2
