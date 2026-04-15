@@ -3,7 +3,7 @@
 ## Project Documentation
 
 ### Tech Stack
-- **Frontend:** React.js, Redux, Bootstrap
+- **Frontend:** React.js, Vite
 - **Backend:** Node.js, Express, MongoDB
 - **Machine Learning Model:** Scikit-learn, TensorFlow
 
@@ -32,6 +32,10 @@
    ```bash
    cd frontend
    npm start
+   ```
+   Or equivalently:
+   ```bash
+   npm run dev
    ```
 
 ### ML Model Details
